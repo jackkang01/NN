@@ -1,2 +1,2 @@
-# NN
-NN for practice
+# Practice
+Practice
